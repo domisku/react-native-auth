@@ -3,7 +3,7 @@
     "name": "react-native-auth",
     "slug": "react-native-auth",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
